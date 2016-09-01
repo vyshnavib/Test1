@@ -14,6 +14,8 @@
         <members>AC1234</members>
         <members>ACCTEst123</members>
         <members>ACCTest1</members>
+        <members>AccSai1</members>
+        <members>AccTest2</members>
         <name>ApexClass</name>
     </types>
 </Package>
