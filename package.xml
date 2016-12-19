@@ -23,6 +23,9 @@
         <members>ACCObjt1__c.FT1__c</members>
         <members>ACCObjt1__c.FT2__c</members>
         <members>ACCObjt1__c.FT3__c</members>
+        <members>AC__c.ACTestField1__c</members>
+        <members>AOBTest1__c.AOBTestField1__c</members>
+        <members>AOb12__c.TestAcob12__c</members>
         <members>Demo4Obj7__c.Demo4Field1__c</members>
         <members>Demo4Obj7__c.Demo4Field2__c</members>
         <members>Goal.OrigGoalId__c</members>
@@ -36,6 +39,7 @@
         <members>ACC3Obj4__c</members>
         <members>ACCObj123__c</members>
         <members>ACCObjt1__c</members>
+        <members>AC__c</members>
         <members>TLO1__c</members>
         <members>TOB1__c</members>
         <members>TObj18__c</members>
