@@ -27,6 +27,8 @@
         <members>Demo4Obj7__c.Demo4Field2__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Lead.CurrentGenerators__c</members>
+        <members>TLO1__c.TLF1__c</members>
+        <members>TOB1__c.TOBF1__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -34,6 +36,11 @@
         <members>ACC3Obj4__c</members>
         <members>ACCObj123__c</members>
         <members>ACCObjt1__c</members>
+        <members>TLO1__c</members>
+        <members>TOB1__c</members>
+        <members>TObj18__c</members>
+        <members>TSOBJ1__c</members>
+        <members>VAccObj3__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
