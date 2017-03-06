@@ -16,6 +16,10 @@
         <members>ACCTest1</members>
         <members>AccSai1</members>
         <members>AccTest2</members>
+        <members>SampleApexTestClass12345</members>
+        <members>SampleApexTestClass2</members>
+        <members>SampleApexTestClass3</members>
+        <members>SampleTest2</members>
         <name>ApexClass</name>
     </types>
     <types>
